@@ -35,7 +35,7 @@
 > - 개발기간 : 2024.09.10-10.08
 > - 역    할 : SQL Developer와 연동하여 차량의 판매 통계 데이터를 Google Charts 라이브러리로 시각화하는 기능을 구현
 >
->> [프로젝트](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+>> [프로젝트](https://github.com/kin/MyLittelTrip_frontend_react)
 
 <br />
 
@@ -46,6 +46,6 @@
 > - 개발기간 : 2024.10.10-11.05
 > - 역    할 : 회원가입, 로그인, 마이페이지의 프론트엔드, 백엔드를 개발하고 세션 관리 및 비밀번호 암호화 처리 등의 기능을 구현
 >
->> [프로젝트](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+>> [프로젝트](https://github.com/kian/MyLittelTrip_frontend_react)
 
 <br />
