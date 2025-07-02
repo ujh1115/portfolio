@@ -33,7 +33,7 @@
 > - 개    요 : 중고차 거래를 위한 온라인 플랫폼을 구축하여 사용자들이 중고차를 쉽게 검색하고 구매할 수 있도록 지원하는 웹사이트를 개발
 >
 > - 개발기간 : 2024.09.10-10.08
-> - 역    할 : Oracle DB와 연동하여 차량의 판매 통계 데이터를 Google Charts 라이브러리로 시각화하는 기능을 구현
+> - 역    할 : SQL Developer와 연동하여 차량의 판매 통계 데이터를 Google Charts 라이브러리로 시각화하는 기능을 구현
 >
 >> [프로젝트](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
 
