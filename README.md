@@ -11,12 +11,16 @@
 
 # Tech Stack
 
-> Back-End : Java 
+> Back-End : Java
+> <br />
 > Front-End : HTML5, CSS3, JavaScript
+> <br />
 > Framework : Spring Boot, MyBatis 
-
-> DB : SQL Developer, Postgre SQL 
+> <br />
+> DB : SQL Developer, Postgre SQL
+> <br />
 > Server : Apache Tomcat
+> <br />
 > Development Tool : Eclipse, Spring Tool Suite4, eXERD, ERDCloud
 
 <br />
